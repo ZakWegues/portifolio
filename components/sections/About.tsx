@@ -67,7 +67,7 @@ export default function About() {
                   🇧🇷 Português nativo
                 </span>
                 <span className="px-3 py-1.5 rounded-full bg-surface border border-border text-text-secondary text-xs font-body">
-                  🇺🇸 Inglês avançado
+                  🇺🇸 Inglês intermediário
                 </span>
                 <span className="px-3 py-1.5 rounded-full bg-surface border border-border text-text-secondary text-xs font-body">
                   📍 São Paulo, SP
@@ -123,7 +123,7 @@ export default function About() {
                   <div>
                     <p className="font-display font-bold text-text-primary">ETEC Guaianases</p>
                     <p className="font-body text-text-secondary text-sm mt-0.5">Técnico em Desenvolvimento de Sistemas</p>
-                    <p className="font-body text-text-muted text-xs mt-1">2024 – 2026 · cursando</p>
+                    <p className="font-body text-text-muted text-xs mt-1">2024 – 2027 · cursando</p>
                   </div>
                 </div>
               </div>

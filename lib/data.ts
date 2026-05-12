@@ -77,7 +77,7 @@ export const education = [
     institution: 'ETEC Guaianases',
     course: 'Técnico em Desenvolvimento de Sistemas',
     note: 'Integrado ao Ensino Médio',
-    period: '2024 – 2026',
+    period: '2024 – 2027',
     status: 'cursando',
     location: 'São Paulo, SP',
   },
@@ -85,5 +85,5 @@ export const education = [
 
 export const languages = [
   { name: 'Português', level: 'Nativo' },
-  { name: 'Inglês', level: 'Avançado' },
+  { name: 'Inglês', level: 'Intermediário' },
 ]

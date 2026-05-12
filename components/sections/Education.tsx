@@ -85,12 +85,12 @@ export default function Education() {
             <FadeInUp delay={0.4}>
               <div className="rounded-2xl border border-violet-DEFAULT/20 bg-violet-DEFAULT/5 p-8 relative overflow-hidden">
                 <div className="absolute -bottom-8 -right-8 w-32 h-32 rounded-full bg-violet-DEFAULT/10 blur-2xl" />
-                <p className="font-body text-xs text-violet-glow uppercase tracking-widest mb-3">Inglês avançado</p>
+                <p className="font-body text-xs text-violet-glow uppercase tracking-widest mb-3">Inglês intermediário</p>
                 <p className="font-display font-black text-2xl text-text-primary mb-2">
                   Consumo conteúdo técnico direto na fonte
                 </p>
                 <p className="font-body text-text-secondary text-sm leading-relaxed">
-                  Documentações, tutoriais, podcasts e comunidades internacionais — sem barreiras de idioma.
+                  Documentações, tutoriais e comunidades internacionais — sem depender de tradução.
                 </p>
               </div>
             </FadeInUp>
